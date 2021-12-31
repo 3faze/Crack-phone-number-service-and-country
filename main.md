@@ -1,5 +1,5 @@
 import phonenumbers
-from test import number
+number = "+351914436814"
 
 from phonenumbers import geocoder
 ch_number = phonenumbers.parse(number, "CH")
